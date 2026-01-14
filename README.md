@@ -31,4 +31,4 @@ Himoyalangan endpointlar token orqali tekshiriladi.
 Barcha endpointlar Postman orqali tekshirilgan.
 
 📌 Loyiha JWT + Cookie asosida autentifikatsiyani o‘rganish
-va amaliyot uchun yozilgan kodlarni korishingiz mumkun !!!
+va amaliyot uchun yozilgan 
