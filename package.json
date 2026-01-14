@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbdullayevTemurmalik/Express.JS-7dars-Register.git"
+    "url": "git+https://github.com/AbdullayevTemurmalik/Express.JS-8dars-JWT-Cookie.git"
   },
   "keywords": [
     "Node.JS",
@@ -31,7 +31,7 @@
   "author": "TemurMalik Abdullayev",
   "license": "ISC",
   "bugs": {
-    "url": " https://github.com/AbdullayevTemurmalik/Express.JS-7dars-Register/issues"
+    "url": " https://github.com/AbdullayevTemurmalik/Express.JS-8dars-JWT-Cookie/issues"
   },
-  "homepage": " https://github.com/AbdullayevTemurmalik/Express.JS-7dars-Register#readme"
+  "homepage": " https://github.com/AbdullayevTemurmalik/Express.JS-8dars-JWT-Cookie#readme"
 }
