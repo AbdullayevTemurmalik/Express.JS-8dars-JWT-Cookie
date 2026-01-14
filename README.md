@@ -32,5 +32,3 @@ Barcha endpointlar Postman orqali tekshirilgan.
 
 📌 Loyiha JWT + Cookie asosida autentifikatsiyani o‘rganish
 va amaliyot uchun yozilgan !
-
-
