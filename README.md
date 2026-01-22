@@ -1,6 +1,6 @@
 ## 🔐 Backend API (Node.js + Express + JWT)
 
-Bu loyiha **Node.js** va **Express.js** yordamida yozilgan backend API.!!!!!
+Bu loyiha **Node.js** va **Express.js** yordamida yozilgan backend API.
 Ma’lumotlar **MongoDB (Mongoose)** bazasida saqlanadi.
 Autentifikatsiya **JWT (JSON Web Token)** va **Cookie** orqali amalga oshiriladi.
 Barcha so‘rovlar **Postman** orqali test qilingan.
