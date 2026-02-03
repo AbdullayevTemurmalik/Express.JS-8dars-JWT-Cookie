@@ -4,11 +4,13 @@ const express = require("express");
 const mongoose = require("mongoose");
 const fileUpload = require("express-fileupload");
 const requestTime = require("./middlewares/request.time");
+const cokieParser = require("cookie-parser");
 
 const app = express();
 
 app.use(requestTime);
 app.use(express.json());
+app.use(cokieParser({}));
 app.use(express.static("static"));
 app.use(fileUpload({}));
 
@@ -33,3 +35,4 @@ const bootstrap = async () => {
 };
 
 bootstrap();
+  
